@@ -198,22 +198,6 @@ Results Display
 
 Protected Access Page
 
-🌍 Future Enhancements
-
-You may add:
-
-✅ Admin login
-✅ Candidate registration
-✅ Real-time charts
-✅ Email OTP verification
-✅ Face recognition voting
-
-👩‍💻 Developer
-
-Falguni
-Full-Stack Web Developer (React + Node)
-
-📜 License
 
 This project is free to modify for educational use.
 
